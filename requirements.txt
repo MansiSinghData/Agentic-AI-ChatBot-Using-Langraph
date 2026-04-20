@@ -1,0 +1,11 @@
+streamlit
+langchain-groq
+langchain-community
+langchain-openai
+pypdf
+sentence-transformers
+langgraph
+pydantic
+fastapi
+uvicorn
+streamlit
