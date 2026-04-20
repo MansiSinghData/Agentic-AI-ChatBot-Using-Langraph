@@ -20,6 +20,3 @@ Agentic AI is a full-stack chatbot project that lets you build and interact with
 - Groq and OpenAI model integrations
 - Tavily search tool
 
-## Suggested Git Repository Description
-
-Full-stack agentic AI chatbot using FastAPI, Streamlit, LangGraph, and Groq/OpenAI models with optional web search.
